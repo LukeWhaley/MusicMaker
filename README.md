@@ -1,6 +1,6 @@
 **Project Name:** Music Maker
 
-**Team Name:** Team Whaley
+**Team Name:** DJ Whale
 
 **Members:** Luke Whaley
 
