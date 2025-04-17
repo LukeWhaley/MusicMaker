@@ -12,7 +12,6 @@ My project, Music Maker, is a music making program that allows people to create 
 This program uses JavaFX to implement an interactive GUI.
 
 
-How to Run the Program:
 To run this program, ensure you have Java Development Kit (version 8 or higher) installed to your computer as well as a compatible Java IDE. Additionally, you must be able to run JavaFX on your device.
 Open the project in a Java IDE and ensure that your file directories are correct in the launch.json and settings.json files.
 Finally, compile and run MusicMaker.java to start making your own music!
